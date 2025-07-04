@@ -83,3 +83,5 @@ You can open it with Cisco Packet Tracer and simulate the network.
 Made with ❤️ by **HeidarAli**  
 For learning, practice, and leveling up in Cisco networking 💪
 
+> ⚠️ License Notice:
+> This project was previously licensed under [MIT](LICENSE). As of 2025-07-04, it is now licensed under [Apache 2.0](LICENSE).

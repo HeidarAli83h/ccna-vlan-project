@@ -63,7 +63,14 @@ You can open it with Cisco Packet Tracer and simulate the network.
 - Basic IP addressing and connectivity testing
 
 ---
+---
 
+<p align="center">
+  <img src="images/vlan-ccna.jpg" width="500" alt="Diagram" />
+</p>
+
+
+---
 ## 🔥 Motivation
 
 > “Start where you are. Use what you have. Do what you can.” — Arthur Ashe
